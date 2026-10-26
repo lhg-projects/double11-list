@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: double11-list
+Version: 0.1.0
+Summary: Double 11 shopping list: manual prices, estimated final price after coupons, budget alerts.
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: typer>=0.12
+Dynamic: license-file

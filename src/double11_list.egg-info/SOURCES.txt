@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+src/double11_list.egg-info/PKG-INFO
+src/double11_list.egg-info/SOURCES.txt
+src/double11_list.egg-info/dependency_links.txt
+src/double11_list.egg-info/entry_points.txt
+src/double11_list.egg-info/requires.txt
+src/double11_list.egg-info/top_level.txt
+src/shoppinglist/__init__.py
+src/shoppinglist/calc.py
+src/shoppinglist/cli.py
+src/shoppinglist/remind.py
+src/shoppinglist/store.py
+tests/test_calc.py
+tests/test_cli.py
+tests/test_store.py

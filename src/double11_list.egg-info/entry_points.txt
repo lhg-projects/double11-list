@@ -1,0 +1,2 @@
+[console_scripts]
+double11-list = shoppinglist.cli:app
